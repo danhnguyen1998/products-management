@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link mockApi used in this projects: http://5d9d6c6093e57f0014a844c1.mockapi.io/api/products
 
 ## Available Scripts
+In the project directory, first you must run:
 
-In the project directory, you can run:
+### `npm install`
+
+After that, you can run:
 
 ### `npm start`
 
